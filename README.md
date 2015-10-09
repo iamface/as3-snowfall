@@ -1,5 +1,5 @@
 # as3-snowfall
-AS3 Snowfall in an ActionScript 3 partical emitter class you can add to any ActionScript 3 project or banner easily.
+AS3 Snowfall is an ActionScript 3 partical emitter class you can add to any ActionScript 3 project or banner easily.
 
 There is no need to edit Class file. Simply import the class or set the Document Class to Snow and that's all you need.
 
